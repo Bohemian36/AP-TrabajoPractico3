@@ -1,6 +1,4 @@
-//Ejercicio 1-(b)
-
-public class III {
+public class 1-b {
     public static void main (String [] args) {
      
      
