@@ -1,6 +1,6 @@
 //Ejercicio 1(a)
 
-public class III {
+public class 1-a {
     public static void main (String [] args) {
         
       String z = "Bohemian Rapsody";
