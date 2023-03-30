@@ -1,4 +1,4 @@
-//Ejercicio 1(c)
+//Ejercicio 1-c
 
 public class III {
     public static void main(String args[]) {
